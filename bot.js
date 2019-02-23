@@ -6,7 +6,7 @@ var fs = require('fs');
 // -->COMMANDS<--
 
 bot.on('guildMemberAdd',member =>{
-    member.send('**:fire::rose: Selam Güzel İnsan :rose::fire:**\n **:fire: Sıcak Bir Aile Ortamının Vede Eğlencenin Olduğu Bir Sunucuya Ne Dersiniz.:fire:**\n **:rose: Oyun, Sohbet, Eğlence, Müziğin Olduğu Her Şey Bu Sunucuda :rose:**\n **:fire: Bizi Diğerlerinden Farklı Kılan Şey Korunmanız. Hiç Bir Şekilde Saldırı Gerçekleştirilemeyen Bir Sunucu Yarattık. :fire:**\n **:rose: 7/24 Açık Yetkililerimiz Vardır. Siz Farkında Olmasanız Bile Birileri Sizleri İzliyor Olacak :rose:**\n **:fire: Seni De Bu Ortamda Görmekten Mutluluk Duyarız. :fire:**\n **:rose: Sunucu Davet Linki; https://discord.gg/6ZgPARX :rose:**\n https://cdn.discordapp.com/attachments/466345989297537025/473186049376518186/GangstasParadise.gif\n ');
+    member.send('**:fire: Krallığımızın Bir Üyesi Olmak İstermisin ? :fire:**\n **:gem: Sunucumuzda kesinlikle torpil vb. olmamaktadır. :gem:**\n **:trophy: Yetki Alımarımız Vardır :trophy:**\n **:first_place: Sunucumuza da özel level sistemi. :first_place:**\n **:call_me: Sunucumuza katılıp eğlencemize eşlik edebilirsiniz. :call_me:**\n **:mailbox: Sunucumuzun sınırsız davet linki: https://discord.gg/mYwAzsX\n **https://cdn.discordapp.com/attachments/465548811721244685/541441804155879444/giphy.gif**\n ');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 
@@ -14,7 +14,7 @@ bot.on('guildMemberAdd',member =>{
 
 
 bot.on('guildMemberRemove', member=>{
-    member.send('**:fire::rose: Selam Güzel İnsan :rose::fire:**\n **:fire: Sıcak Bir Aile Ortamının Vede Eğlencenin Olduğu Bir Sunucuya Ne Dersiniz.:fire:**\n **:rose: Oyun, Sohbet, Eğlence, Müziğin Olduğu Her Şey Bu Sunucuda :rose:**\n **:fire: Bizi Diğerlerinden Farklı Kılan Şey Korunmanız. Hiç Bir Şekilde Saldırı Gerçekleştirilemeyen Bir Sunucu Yarattık. :fire:**\n **:rose: 7/24 Açık Yetkililerimiz Vardır. Siz Farkında Olmasanız Bile Birileri Sizleri İzliyor Olacak :rose:**\n **:fire: Seni De Bu Ortamda Görmekten Mutluluk Duyarız. :fire:**\n **:rose: Sunucu Davet Linki; https://discord.gg/6ZgPARX :rose:**\n https://cdn.discordapp.com/attachments/466345989297537025/473186049376518186/GangstasParadise.gif\n ');
+    member.send('**:fire: Krallığımızın Bir Üyesi Olmak İstermisin ? :fire:**\n **:gem: Sunucumuzda kesinlikle torpil vb. olmamaktadır. :gem:**\n **:trophy: Yetki Alımarımız Vardır :trophy:**\n **:first_place: Sunucumuza da özel level sistemi. :first_place:**\n **:call_me: Sunucumuza katılıp eğlencemize eşlik edebilirsiniz. :call_me:**\n **:mailbox: Sunucumuzun sınırsız davet linki: https://discord.gg/mYwAzsX\n **https://cdn.discordapp.com/attachments/465548811721244685/541441804155879444/giphy.gif**\n ');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 
